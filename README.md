@@ -104,18 +104,22 @@ python manage.py runserver
 
 ---
 
-🔹 3. List Issues from Repository
+### 🔹 3. List Issues from Repository
 
-GET
+**GET**
 
+```
 /api/github/issues/<owner>/<repo>/
+```
 
 📌 Description:
 Fetches all issues from a given repository.
 
 📌 Example:
 
+```
 /api/github/issues/octocat/hello-world/
+```
 
 ---
 
