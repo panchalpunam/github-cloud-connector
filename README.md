@@ -38,7 +38,7 @@ cd github-cloud-connector
 
   python -m venv venv
 
-  ## Activate virtual environment
+  #### Activate virtual environment
 
   On Windows:
   venv\Scripts\activate
